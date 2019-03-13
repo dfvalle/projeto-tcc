@@ -1,5 +1,5 @@
 # itiban-project-tcc
-Management of beneficiary information in an omni-channel.
+Management of itiban information in an omni-channel.
 
 ### Compile
 ```
@@ -40,7 +40,7 @@ http://jenkins.br/
 http://jenkins.br/
 ```
 
-### Beneficiary REST API - Swagger
+### REST API - Swagger
 ```
 http://localhost:8080/swagger/index.html
 ```
